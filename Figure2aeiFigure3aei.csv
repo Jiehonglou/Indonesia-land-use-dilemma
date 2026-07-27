@@ -1,0 +1,100 @@
+PlotGroup,Scenario,Island_Group,kHa
+Plot1,B35,Sumatra,1034.7
+Plot1,B35,Kalimantan,3036.1
+Plot1,B35,Java,0
+Plot1,B35,Bali & Nusa Tenggara,0
+Plot1,B35,Maluku,33.9
+Plot1,B35,Papua,531.4
+Plot1,B35,Sulawesi,212.9
+Plot1,B40,Sumatra,1308.9
+Plot1,B40,Kalimantan,3591.4
+Plot1,B40,Java,0
+Plot1,B40,Bali & Nusa Tenggara,0
+Plot1,B40,Maluku,35.9
+Plot1,B40,Papua,651.5
+Plot1,B40,Sulawesi,224.6
+Plot1,B50,Sumatra,1426.5
+Plot1,B50,Kalimantan,5206.4
+Plot1,B50,Java,0
+Plot1,B50,Bali & Nusa Tenggara,0
+Plot1,B50,Maluku,54.3
+Plot1,B50,Papua,1031.9
+Plot1,B50,Sulawesi,235.1
+Plot2,B35,Sumatra,2253.7
+Plot2,B35,Kalimantan,892.8
+Plot2,B35,Java,1146.8
+Plot2,B35,Bali & Nusa Tenggara,67.9
+Plot2,B35,Maluku,62.8
+Plot2,B35,Papua,160.7
+Plot2,B35,Sulawesi,640.3
+Plot2,B40,Sumatra,2575.2
+Plot2,B40,Kalimantan,1195.2
+Plot2,B40,Java,1260.1
+Plot2,B40,Bali & Nusa Tenggara,84.5
+Plot2,B40,Maluku,100.9
+Plot2,B40,Papua,221.2
+Plot2,B40,Sulawesi,874.5
+Plot2,B50,Sumatra,3625.6
+Plot2,B50,Kalimantan,1608.7
+Plot2,B50,Java,1635.5
+Plot2,B50,Bali & Nusa Tenggara,104.3
+Plot2,B50,Maluku,103.5
+Plot2,B50,Papua,225.6
+Plot2,B50,Sulawesi,1244
+Plot3,B35,Sumatra,2246.9
+Plot3,B35,Kalimantan,919.4
+Plot3,B35,Java,1183.9
+Plot3,B35,Bali & Nusa Tenggara,73.2
+Plot3,B35,Maluku,74.8
+Plot3,B35,Papua,58
+Plot3,B35,Sulawesi,703.3
+Plot3,B40,Sumatra,2525.1
+Plot3,B40,Kalimantan,1053.1
+Plot3,B40,Java,1536.6
+Plot3,B40,Bali & Nusa Tenggara,92.7
+Plot3,B40,Maluku,78.6
+Plot3,B40,Papua,58.4
+Plot3,B40,Sulawesi,806.5
+Plot3,B50,Sumatra,3620.8
+Plot3,B50,Kalimantan,1496.4
+Plot3,B50,Java,1689.4
+Plot3,B50,Bali & Nusa Tenggara,102
+Plot3,B50,Maluku,121.7
+Plot3,B50,Papua,60.6
+Plot3,B50,Sulawesi,1230
+Plot4,Reduced Imports,Sumatra,2.2
+Plot4,Reduced Imports,Kalimantan,0.3
+Plot4,Reduced Imports,Bali & Nusa Tenggara,0
+Plot4,Reduced Imports,Papua,81.2
+Plot4,Self-Sufficiency,Sumatra,89.3
+Plot4,Self-Sufficiency,Kalimantan,157.2
+Plot4,Self-Sufficiency,Bali & Nusa Tenggara,0
+Plot4,Self-Sufficiency,Papua,688.8
+Plot4,Exporter,Sumatra,283.3
+Plot4,Exporter,Kalimantan,312.6
+Plot4,Exporter,Bali & Nusa Tenggara,6.2
+Plot4,Exporter,Papua,1647.5
+Plot5,Reduced Imports,Sumatra,7.9
+Plot5,Reduced Imports,Kalimantan,0.3
+Plot5,Reduced Imports,Bali & Nusa Tenggara,0
+Plot5,Reduced Imports,Papua,76.2
+Plot5,Self-Sufficiency,Sumatra,194.8
+Plot5,Self-Sufficiency,Kalimantan,95.3
+Plot5,Self-Sufficiency,Bali & Nusa Tenggara,0
+Plot5,Self-Sufficiency,Papua,644.2
+Plot5,Exporter,Sumatra,941.9
+Plot5,Exporter,Kalimantan,211.6
+Plot5,Exporter,Bali & Nusa Tenggara,51
+Plot5,Exporter,Papua,1101.6
+Plot6,Reduced Imports,Sumatra,5.9
+Plot6,Reduced Imports,Kalimantan,0.5
+Plot6,Reduced Imports,Bali & Nusa Tenggara,0
+Plot6,Reduced Imports,Papua,78
+Plot6,Self-Sufficiency,Sumatra,456.2
+Plot6,Self-Sufficiency,Kalimantan,107.5
+Plot6,Self-Sufficiency,Bali & Nusa Tenggara,0
+Plot6,Self-Sufficiency,Papua,400.8
+Plot6,Exporter,Sumatra,891
+Plot6,Exporter,Kalimantan,300.1
+Plot6,Exporter,Bali & Nusa Tenggara,92.5
+Plot6,Exporter,Papua,1040.9
