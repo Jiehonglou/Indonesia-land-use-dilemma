@@ -1,0 +1,253 @@
+PlotGroup,Scenario,Source,mmtCO2e,Min,Max
+Plot1,B35,LUC - Primary Forest,262,1645,2434
+Plot1,B35,LUC - Secondary Forest,925,1645,2434
+Plot1,B35,LUC - Oil Palm,0,1645,2434
+Plot1,B35,LUC - Rice,-4,1645,2434
+Plot1,B35,LUC - Agriculture,384,1645,2434
+Plot1,B35,LUC - Other,107,1645,2434
+Plot1,B35,Peat Drainage,115,1645,2434
+Plot1,B35,Clearing Fire,221,1645,2434
+Plot1,B35,Production & Processing,28,1645,2434
+Plot1,B35,Fuel Switching,-71,1645,2434
+Plot1,B40,LUC - Primary Forest,301,1982,3152
+Plot1,B40,LUC - Secondary Forest,1052,1982,3152
+Plot1,B40,LUC - Oil Palm,0,1982,3152
+Plot1,B40,LUC - Rice,-5,1982,3152
+Plot1,B40,LUC - Agriculture,453,1982,3152
+Plot1,B40,LUC - Other,124,1982,3152
+Plot1,B40,Peat Drainage,208,1982,3152
+Plot1,B40,Clearing Fire,399,1982,3152
+Plot1,B40,Production & Processing,34,1982,3152
+Plot1,B40,Fuel Switching,-98,1982,3152
+Plot1,B50,LUC - Primary Forest,580,3041,4771
+Plot1,B50,LUC - Secondary Forest,1620,3041,4771
+Plot1,B50,LUC - Oil Palm,0,3041,4771
+Plot1,B50,LUC - Rice,-6,3041,4771
+Plot1,B50,LUC - Agriculture,578,3041,4771
+Plot1,B50,LUC - Other,161,3041,4771
+Plot1,B50,Peat Drainage,317,3041,4771
+Plot1,B50,Clearing Fire,609,3041,4771
+Plot1,B50,Production & Processing,47,3041,4771
+Plot1,B50,Fuel Switching,-153,3041,4771
+Plot2,B35,LUC - Primary Forest,56,509,996
+Plot2,B35,LUC - Secondary Forest,227,509,996
+Plot2,B35,LUC - Oil Palm,0,509,996
+Plot2,B35,LUC - Rice,-68,509,996
+Plot2,B35,LUC - Agriculture,342,509,996
+Plot2,B35,LUC - Other,97,509,996
+Plot2,B35,Peat Drainage,24,509,996
+Plot2,B35,Clearing Fire,46,509,996
+Plot2,B35,Production & Processing,29,509,996
+Plot2,B35,Fuel Switching,-71,509,996
+Plot2,B40,LUC - Primary Forest,85,674,1264
+Plot2,B40,LUC - Secondary Forest,298,674,1264
+Plot2,B40,LUC - Oil Palm,0,674,1264
+Plot2,B40,LUC - Rice,-87,674,1264
+Plot2,B40,LUC - Agriculture,426,674,1264
+Plot2,B40,LUC - Other,110,674,1264
+Plot2,B40,Peat Drainage,35,674,1264
+Plot2,B40,Clearing Fire,67,674,1264
+Plot2,B40,Production & Processing,35,674,1264
+Plot2,B40,Fuel Switching,-98,674,1264
+Plot2,B50,LUC - Primary Forest,85,835,1699
+Plot2,B50,LUC - Secondary Forest,298,835,1699
+Plot2,B50,LUC - Oil Palm,0,835,1699
+Plot2,B50,LUC - Rice,-125,835,1699
+Plot2,B50,LUC - Agriculture,560,835,1699
+Plot2,B50,LUC - Other,237,835,1699
+Plot2,B50,Peat Drainage,57,835,1699
+Plot2,B50,Clearing Fire,109,835,1699
+Plot2,B50,Production & Processing,47,835,1699
+Plot2,B50,Fuel Switching,-153,835,1699
+Plot3,B35,LUC - Primary Forest,0,246,615
+Plot3,B35,LUC - Secondary Forest,0,246,615
+Plot3,B35,LUC - Oil Palm,0,246,615
+Plot3,B35,LUC - Rice,-71,246,615
+Plot3,B35,LUC - Agriculture,420,246,615
+Plot3,B35,LUC - Other,52,246,615
+Plot3,B35,Peat Drainage,0,246,615
+Plot3,B35,Clearing Fire,0,246,615
+Plot3,B35,Production & Processing,29,246,615
+Plot3,B35,Fuel Switching,-71,246,615
+Plot3,B40,LUC - Primary Forest,0,170,613
+Plot3,B40,LUC - Secondary Forest,0,170,613
+Plot3,B40,LUC - Oil Palm,0,170,613
+Plot3,B40,LUC - Rice,-123,170,613
+Plot3,B40,LUC - Agriculture,428,170,613
+Plot3,B40,LUC - Other,52,170,613
+Plot3,B40,Peat Drainage,0,170,613
+Plot3,B40,Clearing Fire,0,170,613
+Plot3,B40,Production & Processing,34,170,613
+Plot3,B40,Fuel Switching,-98,170,613
+Plot3,B50,LUC - Primary Forest,0,193,863
+Plot3,B50,LUC - Secondary Forest,0,193,863
+Plot3,B50,LUC - Oil Palm,0,193,863
+Plot3,B50,LUC - Rice,-123,193,863
+Plot3,B50,LUC - Agriculture,553,193,863
+Plot3,B50,LUC - Other,52,193,863
+Plot3,B50,Peat Drainage,0,193,863
+Plot3,B50,Clearing Fire,0,193,863
+Plot3,B50,Production & Processing,7,193,863
+Plot3,B50,Fuel Switching,-153,193,863
+Plot4,Reduced Imports,LUC - Primary Forest,0,36,66
+Plot4,Reduced Imports,LUC - Secondary Forest,0,36,66
+Plot4,Reduced Imports,LUC - Oil Palm,0,36,66
+Plot4,Reduced Imports,LUC - Rice,0,36,66
+Plot4,Reduced Imports,LUC - Agriculture,7,36,66
+Plot4,Reduced Imports,LUC - Other,12,36,66
+Plot4,Reduced Imports,Peat Drainage,7,36,66
+Plot4,Reduced Imports,Clearing Fire,14,36,66
+Plot4,Reduced Imports,Production & Processing,11,36,66
+Plot4,Reduced Imports,Fuel Switching,0,36,66
+Plot4,Self-Sufficiency,LUC - Primary Forest,89,415,603
+Plot4,Self-Sufficiency,LUC - Secondary Forest,150,415,603
+Plot4,Self-Sufficiency,LUC - Oil Palm,8,415,603
+Plot4,Self-Sufficiency,LUC - Rice,0,415,603
+Plot4,Self-Sufficiency,LUC - Agriculture,15,415,603
+Plot4,Self-Sufficiency,LUC - Other,39,415,603
+Plot4,Self-Sufficiency,Peat Drainage,30,415,603
+Plot4,Self-Sufficiency,Clearing Fire,58,415,603
+Plot4,Self-Sufficiency,Production & Processing,120,415,603
+Plot4,Self-Sufficiency,Fuel Switching,0,415,603
+Plot4,Exporter,LUC - Primary Forest,280,1054,1542
+Plot4,Exporter,LUC - Secondary Forest,368,1054,1542
+Plot4,Exporter,LUC - Oil Palm,15,1054,1542
+Plot4,Exporter,LUC - Rice,0,1054,1542
+Plot4,Exporter,LUC - Agriculture,37,1054,1542
+Plot4,Exporter,LUC - Other,66,1054,1542
+Plot4,Exporter,Peat Drainage,83,1054,1542
+Plot4,Exporter,Clearing Fire,160,1054,1542
+Plot4,Exporter,Production & Processing,289,1054,1542
+Plot4,Exporter,Fuel Switching,0,1054,1542
+Plot5,Reduced Imports,LUC - Primary Forest,0,36,66
+Plot5,Reduced Imports,LUC - Secondary Forest,0,36,66
+Plot5,Reduced Imports,LUC - Oil Palm,0,36,66
+Plot5,Reduced Imports,LUC - Rice,0,36,66
+Plot5,Reduced Imports,LUC - Agriculture,8,36,66
+Plot5,Reduced Imports,LUC - Other,11,36,66
+Plot5,Reduced Imports,Peat Drainage,7,36,66
+Plot5,Reduced Imports,Clearing Fire,14,36,66
+Plot5,Reduced Imports,Production & Processing,11,36,66
+Plot5,Reduced Imports,Fuel Switching,0,36,66
+Plot5,Self-Sufficiency,LUC - Primary Forest,81,350,520
+Plot5,Self-Sufficiency,LUC - Secondary Forest,91,350,520
+Plot5,Self-Sufficiency,LUC - Oil Palm,17,350,520
+Plot5,Self-Sufficiency,LUC - Rice,0,350,520
+Plot5,Self-Sufficiency,LUC - Agriculture,20,350,520
+Plot5,Self-Sufficiency,LUC - Other,30,350,520
+Plot5,Self-Sufficiency,Peat Drainage,26,350,520
+Plot5,Self-Sufficiency,Clearing Fire,50,350,520
+Plot5,Self-Sufficiency,Production & Processing,120,350,520
+Plot5,Self-Sufficiency,Fuel Switching,0,350,520
+Plot5,Exporter,LUC - Primary Forest,132,966,1546
+Plot5,Exporter,LUC - Secondary Forest,266,966,1546
+Plot5,Exporter,LUC - Oil Palm,29,966,1546
+Plot5,Exporter,LUC - Rice,0,966,1546
+Plot5,Exporter,LUC - Agriculture,95,966,1546
+Plot5,Exporter,LUC - Other,83,966,1546
+Plot5,Exporter,Peat Drainage,122,966,1546
+Plot5,Exporter,Clearing Fire,234,966,1546
+Plot5,Exporter,Production & Processing,295,966,1546
+Plot5,Exporter,Fuel Switching,0,966,1546
+Plot6,Reduced Imports,LUC - Primary Forest,0,23,29
+Plot6,Reduced Imports,LUC - Secondary Forest,0,23,29
+Plot6,Reduced Imports,LUC - Oil Palm,0,23,29
+Plot6,Reduced Imports,LUC - Rice,0,23,29
+Plot6,Reduced Imports,LUC - Agriculture,6,23,29
+Plot6,Reduced Imports,LUC - Other,9,23,29
+Plot6,Reduced Imports,Peat Drainage,0,23,29
+Plot6,Reduced Imports,Clearing Fire,0,23,29
+Plot6,Reduced Imports,Production & Processing,11,23,29
+Plot6,Reduced Imports,Fuel Switching,0,23,29
+Plot6,Self-Sufficiency,LUC - Primary Forest,0,210,268
+Plot6,Self-Sufficiency,LUC - Secondary Forest,0,210,268
+Plot6,Self-Sufficiency,LUC - Oil Palm,23,210,268
+Plot6,Self-Sufficiency,LUC - Rice,0,210,268
+Plot6,Self-Sufficiency,LUC - Agriculture,59,210,268
+Plot6,Self-Sufficiency,LUC - Other,33,210,268
+Plot6,Self-Sufficiency,Peat Drainage,0,210,268
+Plot6,Self-Sufficiency,Clearing Fire,0,210,268
+Plot6,Self-Sufficiency,Production & Processing,124,210,268
+Plot6,Self-Sufficiency,Fuel Switching,0,210,268
+Plot6,Exporter,LUC - Primary Forest,0,434,586
+Plot6,Exporter,LUC - Secondary Forest,0,434,586
+Plot6,Exporter,LUC - Oil Palm,55,434,586
+Plot6,Exporter,LUC - Rice,0,434,586
+Plot6,Exporter,LUC - Agriculture,104,434,586
+Plot6,Exporter,LUC - Other,53,434,586
+Plot6,Exporter,Peat Drainage,0,434,586
+Plot6,Exporter,Clearing Fire,0,434,586
+Plot6,Exporter,Production & Processing,298,434,586
+Plot6,Exporter,Fuel Switching,0,434,586
+Plot7,B35/ Reduced Imports,LUC - Primary Forest,262,1617,2460
+Plot7,B35/ Reduced Imports,LUC - Secondary Forest,925,1617,2460
+Plot7,B35/ Reduced Imports,LUC - Agriculture,411,1617,2460
+Plot7,B35/ Reduced Imports,LUC - Other,120,1617,2460
+Plot7,B35/ Reduced Imports,Peat Drainage,121,1617,2460
+Plot7,B35/ Reduced Imports,Clearing Fire,232,1617,2460
+Plot7,B35/ Reduced Imports,Production & Processing,39,1617,2460
+Plot7,B35/ Reduced Imports,Fuel Switching,-71,1617,2460
+Plot7,B40/ Self-Sufficiency,LUC - Primary Forest,407,2317,3936
+Plot7,B40/ Self-Sufficiency,LUC - Secondary Forest,1275,2317,3936
+Plot7,B40/ Self-Sufficiency,LUC - Agriculture,475,2317,3936
+Plot7,B40/ Self-Sufficiency,LUC - Other,159,2317,3936
+Plot7,B40/ Self-Sufficiency,Peat Drainage,260,2317,3936
+Plot7,B40/ Self-Sufficiency,Clearing Fire,499,2317,3936
+Plot7,B40/ Self-Sufficiency,Production & Processing,149,2317,3936
+Plot7,B40/ Self-Sufficiency,Fuel Switching,-98,2317,3936
+Plot7,B50/ Exporter,LUC - Primary Forest,836,3824,6330
+Plot7,B50/ Exporter,LUC - Secondary Forest,2070,3824,6330
+Plot7,B50/ Exporter,LUC - Agriculture,648,3824,6330
+Plot7,B50/ Exporter,LUC - Other,225,3824,6330
+Plot7,B50/ Exporter,Peat Drainage,387,3824,6330
+Plot7,B50/ Exporter,Clearing Fire,743,3824,6330
+Plot7,B50/ Exporter,Production & Processing,321,3824,6330
+Plot7,B50/ Exporter,Fuel Switching,-153,3824,6330
+Plot8,B35/ Reduced Imports,LUC - Primary Forest,85,743,1498
+Plot8,B35/ Reduced Imports,LUC - Secondary Forest,298,743,1498
+Plot8,B35/ Reduced Imports,LUC - Agriculture,511,743,1498
+Plot8,B35/ Reduced Imports,LUC - Other,121,743,1498
+Plot8,B35/ Reduced Imports,Peat Drainage,47,743,1498
+Plot8,B35/ Reduced Imports,Clearing Fire,90,743,1498
+Plot8,B35/ Reduced Imports,Production & Processing,39,743,1498
+Plot8,B35/ Reduced Imports,Fuel Switching,-71,743,1498
+Plot8,B40/ Self-Sufficiency,LUC - Primary Forest,166,1153,2335
+Plot8,B40/ Self-Sufficiency,LUC - Secondary Forest,388,1153,2335
+Plot8,B40/ Self-Sufficiency,LUC - Agriculture,612,1153,2335
+Plot8,B40/ Self-Sufficiency,LUC - Other,300,1153,2335
+Plot8,B40/ Self-Sufficiency,Peat Drainage,77,1153,2335
+Plot8,B40/ Self-Sufficiency,Clearing Fire,149,1153,2335
+Plot8,B40/ Self-Sufficiency,Production & Processing,148,1153,2335
+Plot8,B40/ Self-Sufficiency,Fuel Switching,-98,1153,2335
+Plot8,B50/ Exporter,LUC - Primary Forest,217,1567,3755
+Plot8,B50/ Exporter,LUC - Secondary Forest,631,1567,3755
+Plot8,B50/ Exporter,LUC - Agriculture,825,1567,3755
+Plot8,B50/ Exporter,LUC - Other,342,1567,3755
+Plot8,B50/ Exporter,Peat Drainage,162,1567,3755
+Plot8,B50/ Exporter,Clearing Fire,311,1567,3755
+Plot8,B50/ Exporter,Production & Processing,326,1567,3755
+Plot8,B50/ Exporter,Fuel Switching,-153,1567,3755
+Plot9,B35/ Reduced Imports,LUC - Primary Forest,0,360,778
+Plot9,B35/ Reduced Imports,LUC - Secondary Forest,0,360,778
+Plot9,B35/ Reduced Imports,LUC - Agriculture,540,360,778
+Plot9,B35/ Reduced Imports,LUC - Other,61,360,778
+Plot9,B35/ Reduced Imports,Peat Drainage,0,360,778
+Plot9,B35/ Reduced Imports,Clearing Fire,0,360,778
+Plot9,B35/ Reduced Imports,Production & Processing,39,360,778
+Plot9,B35/ Reduced Imports,Fuel Switching,-71,360,778
+Plot9,B40/ Self-Sufficiency,LUC - Primary Forest,0,504,1064
+Plot9,B40/ Self-Sufficiency,LUC - Secondary Forest,0,504,1064
+Plot9,B40/ Self-Sufficiency,LUC - Agriculture,645,504,1064
+Plot9,B40/ Self-Sufficiency,LUC - Other,85,504,1064
+Plot9,B40/ Self-Sufficiency,Peat Drainage,0,504,1064
+Plot9,B40/ Self-Sufficiency,Clearing Fire,0,504,1064
+Plot9,B40/ Self-Sufficiency,Production & Processing,151,504,1064
+Plot9,B40/ Self-Sufficiency,Fuel Switching,-98,504,1064
+Plot9,B50/ Exporter,LUC - Primary Forest,0,1131,1829
+Plot9,B50/ Exporter,LUC - Secondary Forest,0,1131,1829
+Plot9,B50/ Exporter,LUC - Agriculture,1175,1131,1829
+Plot9,B50/ Exporter,LUC - Other,126,1131,1829
+Plot9,B50/ Exporter,Peat Drainage,0,1131,1829
+Plot9,B50/ Exporter,Clearing Fire,0,1131,1829
+Plot9,B50/ Exporter,Production & Processing,332,1131,1829
+Plot9,B50/ Exporter,Fuel Switching,-153,1131,1829
